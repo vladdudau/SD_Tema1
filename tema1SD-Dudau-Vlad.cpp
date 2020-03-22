@@ -495,7 +495,7 @@ int main()
     ///Pentru vector deja sortat
 
     fout<<"\n\n\nDEJA SORTAT\n";
-    sort(tablou+0,tablou+nr_numere)
+    sort(tablou+0,tablou+nr_numere);
     auto start = high_resolution_clock::now();
     auto stop = high_resolution_clock::now();
     auto duration = duration_cast<microseconds>(stop - start);
