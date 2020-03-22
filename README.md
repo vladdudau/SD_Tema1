@@ -1,5 +1,5 @@
 # SD_Tema1
- Algoritmi de sortare-Dudau Vlad-George
+ Algoritmi de sortare-
  Am implementat urmatorii algoritmi:
  1.BUBBLESORT
  2.MERGESORT
