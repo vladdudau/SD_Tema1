@@ -1,7 +1,9 @@
 # SD_Tema1
  Algoritmi de sortare-
  Am implementat urmatorii algoritmi:
+ <BR>
  1.BUBBLESORT
+ <BR>
  2.MERGESORT
  3.QUICKSORT
  4.QUICKSORT PIVOT RANDOMIZAT
