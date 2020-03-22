@@ -1,0 +1,86 @@
+1000000 99999
+
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 320 milisecunde 1
+QuickSort pivot randomizat 365 milisecunde 1
+Quicksort mediana-medianelor  11724 milisecunde 1
+MergeSort:  250 milisecunde 1
+CountSort  25 milisecunde  1
+RadixSort  96 milisecunde  1
+RadixSortBiti  42 milisecunde  1
+Functia sort din STL 249 milisecunde 1
+
+400000 15000000
+
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 106 milisecunde 1
+QuickSort pivot randomizat 130 milisecunde 1
+Quicksort mediana-medianelor  1635 milisecunde 1
+MergeSort:  90 milisecunde 1
+CountSort functioneaza mult mai bine pe numere mici,asadar am setat limita 100000
+RadixSort  46 milisecunde  1
+RadixSortBiti  17 milisecunde  1
+Functia sort din STL 98 milisecunde 1
+
+100000 100
+
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 131 milisecunde 1
+QuickSort pivot randomizat 27 milisecunde 1
+QuickSort mediana-medianelor functioneaza ineficient pe numere mici
+MergeSort:  16 milisecunde 1
+CountSort  1 milisecunde  1
+RadixSort  4 milisecunde  1
+RadixSortBiti  3 milisecunde  1
+Functia sort din STL 18 milisecunde 1
+
+500000 25000
+
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 135 milisecunde 1
+QuickSort pivot randomizat 171 milisecunde 1
+Quicksort mediana-medianelor  4541 milisecunde 1
+MergeSort:  113 milisecunde 1
+CountSort  10 milisecunde  1
+RadixSort  36 milisecunde  1
+RadixSortBiti  22 milisecunde  1
+Functia sort din STL 119 milisecunde 1
+
+2000 2000
+
+BubbleSort  24  1
+QuickSort 1 milisecunde 1
+QuickSort pivot randomizat 0 milisecunde 1
+QuickSort mediana-medianelor functioneaza ineficient pe numere mici
+MergeSort:  0 milisecunde 1
+CountSort  0 milisecunde  1
+RadixSort  0 milisecunde  1
+RadixSortBiti  0 milisecunde  1
+Functia sort din STL 0 milisecunde 1
+
+123456 123456
+
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 29 milisecunde 1
+QuickSort pivot randomizat 39 milisecunde 1
+Quicksort mediana-medianelor  305 milisecunde 1
+MergeSort:  25 milisecunde 1
+CountSort functioneaza mult mai bine pe numere mici,asadar am setat limita 100000
+RadixSort  11 milisecunde  1
+RadixSortBiti  5 milisecunde  1
+Functia sort din STL 28 milisecunde 1
+
+
+
+
+DEJA SORTAT
+BubbleSort nu functioneaza bine pe tablouri foarte mari, ineficient.
+QuickSort 30 milisecunde 1
+QuickSort pivot randomizat 39 milisecunde 1
+Quicksort mediana-medianelor  297 milisecunde 1
+MergeSort:  25 milisecunde 1
+CountSort functioneaza mult mai bine pe numere mici,asadar am setat limita 100000
+RadixSort  10 milisecunde  1
+RadixSortBiti  4 milisecunde  1
+Functia sort din STL 28 milisecunde 1
+

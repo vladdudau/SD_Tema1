@@ -1,2 +1,12 @@
 # SD_Tema1
- Algoritmi de sortare
+ Algoritmi de sortare-Dudau Vlad-George
+ Am implementat urmatorii algoritmi:
+ 1.BUBBLESORT
+ 2.MERGESORT
+ 3.QUICKSORT
+ 4.QUICKSORT PIVOT RANDOMIZAT
+ 5.QUICKSORT MEDIANA MEDIANELOR
+ 6.COUNT SORT
+ 7.RADIX SORT
+ 8.RAIDX SORT OPERATII PE BITI
+ 9.STL:FUNCTIA SORT
